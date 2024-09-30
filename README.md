@@ -15,4 +15,6 @@ Configuraciones basicas para trabajar con el framework Django
 - 11 Creando el proyecto --> django-admin startproject webCocaCola_proy .
 - 12 realizar migracion a proyecto --> python manage.py migrate
 - 13 ejecutar servidor web --> python manage.py runserver
+
+
 Me trabajo el proyecto
