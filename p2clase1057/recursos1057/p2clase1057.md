@@ -1,0 +1,5 @@
+- Crear aplicacion cervantesclase_app
+- comando --> python manage.py startapp cervantesclase_app
+- en urls.py en cervantesclase_app
+- 1[alt text](image-5.png)
+- en views.py en cervantesclase_app
